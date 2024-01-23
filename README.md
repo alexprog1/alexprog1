@@ -22,7 +22,7 @@
 <img align="left" height="20" src="https://user-images.githubusercontent.com/60290669/190653068-95ea3a9b-0806-4862-b52a-9d681ddb04d4.png">
 <img align="left" height="20" src="https://cdn3.emoji.gg/emojis/php.png">
 <img align="left" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wordpress_Blue_logo.png/1200px-Wordpress_Blue_logo.png">
-<img align="left" height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Linux_logo.jpg">
+<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Linux_logo.jpg">
 
 
 
