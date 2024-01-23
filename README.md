@@ -18,13 +18,13 @@
 **Languages and tools:**
 
 <img align="left" height="20" src="https://user-images.githubusercontent.com/60290669/190650657-4a1e0ad9-90a9-4467-9836-664f5eb6cd03.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/react.png">
+<img align="left" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
 <img align="left" height="20" src="https://user-images.githubusercontent.com/60290669/190653068-95ea3a9b-0806-4862-b52a-9d681ddb04d4.png">
 <img align="left" height="20" src="https://cdn3.emoji.gg/emojis/php.png">
 <img height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/linux.png">
 
 
 
-**🚀 let's revolutionize the future!**
+**🚀 vamos revolucionar o futuro!**
 
-:octocat: Follow me!
+:octocat: Me siga no github!
