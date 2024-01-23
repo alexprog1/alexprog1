@@ -1,17 +1,17 @@
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 
-**Hi, I'm Alex! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">**
+**Olá, Eu sou Alex! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">**
 
 * * *
 
 **About me:**
-- 💻 I'm web developer since 2020
+- 💻 Sou desenvolvedor web desde 2020
 - <img height="12" src="https://cdn3.emoji.gg/emojis/php.png"> JavaScript | ReactJS | PHP
-- 🎓 I am a Computer Technician by IFRN
-- 🎓 I am a Systems Analyst at UNOPAR
-- 🎓 I'm graduated in Information Security
-- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/alexcarvalhopro/), [instagram](https://www.instagram.com/alexprog_/)
+- 🎓 Sou Técnico em Informática pelo IFRN
+- 🎓 Sou Analista de Sistemas na UNOPAR
+- 🎓 Sou formado em Segurança da Informação
+- 📫 Como entrar em contato comigo: [linkedIn](https://www.linkedin.com/in/alexcarvalhopro/), [whtsapp](84 99938-1887)
 
 
 
