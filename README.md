@@ -11,7 +11,7 @@
 - 🎓 Sou Técnico em Informática pelo IFRN
 - 🎓 Sou Analista de Sistemas na UNOPAR
 - 🎓 Sou formado em Segurança da Informação
-- 📫 Como entrar em contato comigo: [linkedIn](https://www.linkedin.com/in/alexcarvalhopro/), [whtsapp](84 99938-1887)
+- 📫 Como entrar em contato comigo: [linkedIn](https://www.linkedin.com/in/alexcarvalhopro/), 84 99938-1887 (whatsapp)
 
 
 
